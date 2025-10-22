@@ -1,0 +1,38 @@
+<transport>
+    <bus type="day" days="all week">
+        <line>105</line>
+        <start>Nowa Huta</start>
+        <end>Centrum</end>
+        <duration>25</duration>
+     </bus >
+     <bus type="day" days="weekdays">
+        <line>152</line>
+        <start>Podgórze</start>
+        <end>Kazimierz</end>
+        <duration>15</duration>
+    </bus>
+    <tram type="day" days="all week">
+        <line>20</line>
+        <start>Bronowice</start>
+        <end>Nowa Huta</end>
+        <duration>30</duration>
+    </tram>
+    <bus type="night" days="weekends">
+        <line>501</line>
+        <start>Podgórze</start>
+        <end>Nowa Huta</end>
+        <duration>40</duration>
+    </bus>
+    <tram type="night" days="weekends">
+        <line>21</line>
+        <start>Nowa Huta</start>
+        <end>Bronowice</end>
+        <duration>35</duration>
+    </tram>
+    <tram type="night" days="all week">
+        <line>22</line>
+        <start>Bronowice</start>
+        <end>Nowa Huta</end>
+        <duration>30</duration>
+    </tram>
+</transport>

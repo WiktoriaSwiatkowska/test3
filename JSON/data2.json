@@ -1,0 +1,8 @@
+[
+    {"line":25, "start":"Centrum", "end":"Nowa Huta", "duration":25, "type":"bus"},
+    {"line":152, "start":"Podgórze", "end":"Kazimierz", "duration":15, "type":"bus"},
+    {"line":20, "start":"Bronowice", "end":"Nowa Huta", "duration":30, "type":"tram"},
+    {"line":501, "start":"Podgórze", "end":"Nowa Huta", "duration":40, "type":"bus"},
+    {"line":21, "start":"Nowa Huta", "end":"Bronowice", "duration":35, "type":"tram"},
+    {"line":22, "start":"Bronowice", "end":"Nowa Huta", "duration":35, "type":"tram"}
+]

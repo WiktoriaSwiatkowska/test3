@@ -1,0 +1,10 @@
+{
+    "city": "Kakow",
+    "trams": 20,
+    "buses": 50,
+    "ticket_price": 4.5,
+    "night_lines": true,
+    "main_stops": ["centrum", "dworzec", "nowa huta"],
+    "info": {"language": "Polish", "currency": "PLN"},
+    "website": "www.mpk.krakow.pl"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+<bus>
+<line>105</line>
+<start>Nowa Huta</start>
+<end>Centrum</end>
+<duration>25</duration>
+<bus/>
+<line>152</line>
+<start>Podgórze</start>
+<end>Kazimierz</end>
+<duration>15</duration>
+</bus>
+<tram>
+<line>20</line>
+<start>Bronowice</start>
+<end>Nowa Huta</end>
+<duration>30</duration>
+</tram>
+<bus>
+<line>501</line>
+<start>Podgórze</start>
+<end>Nowa Huta</end>
+<duration>40</duration>
+</bus>
+<tram>
+<line>21</line>
+<start>Nowa Huta</start>
+<end>Bronowice</end>
+<duration>35</duration>
+</tram>
+<tram>
+<line>21</line>
+<start>Bronowice</start>
+<end>Nowa Huta</end>
+<duration>30</duration>
+</tram>
+</transport>

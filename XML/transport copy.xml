@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <bus>
+        <line color="white" type="day">105</line>
+        <start stop="double" shelter="included">Nowa Huta</start>
+        <end stop="single" shelter="not included">Centrum</end>
+        <duration delay="none" stops="11">25</duration>
+    </bus>
+    <bus>
+        <line color="green" type="day">152</line>
+        <start stop="double" shelter="included">Podgórze</start>
+        <end stop="double" shelter="not included">Kazimierz</end>
+        <duration delay="none" stops="13">15</duration>
+    </bus>
+    <tram>
+        <line color="blue" type="night">20</line>
+        <start stop="single" shelter="not included">Bronowice</start>
+        <end stop="double" shelter="included">Nowa Huta</end>
+        <duration delay="none" stops="none">30</duration>
+    </tram>
+    <bus>
+        <line color="purple" type="day">501</line>
+        <start stop="single" shelter="included">Podgórze</start>
+        <end stop="single" shelter="not included">Nowa Huta</end>
+        <duration delay="none" stops="18">40</duration>
+    </bus>
+    <tram>
+        <line color="green" type="day">21</line>
+        <start stop="single" shelter="not included">Nowa Huta</start>
+        <end stop="single" shelter="not included">Bronowice</end>
+        <duration delay="none" stops="23">35</duration>
+    </tram>
+    <tram>
+        <line color="blue" type="night">21</line>
+        <start stop="single" shelter="not included">Bronowice</start>
+        <end stop="double" shelter="included">Nowa Huta</end>
+        <duration delay="none" stops="29">30</duration>
+    </tram>
+</transport>
